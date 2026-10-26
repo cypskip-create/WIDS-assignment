@@ -1,0 +1,464 @@
+{
+  "dataset": "The WPA3 Dataset - Deauth subset",
+  "repository": "https://github.com/hsngccu/WPA3-dataset",
+  "commit": "e07113327e2012a861f3e273e10ed9b02f0491f4",
+  "license": "MIT (upstream LICENSE retained)",
+  "files": [
+    {
+      "file": "2. Deauth_1.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_1.csv",
+      "bytes": 1272339,
+      "sha256": "22b02cbbdf7a017bfaec565abf2513b4813650b850163877d08cba97fd64459f",
+      "git_blob": "4433f7f65adcc6eb153fc0d7f53d705ee634ff82"
+    },
+    {
+      "file": "2. Deauth_10.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_10.csv",
+      "bytes": 945561,
+      "sha256": "b69cfcff020245d0ac3a9d85c3719a4b6025a1a7945217bf9b17c755dd07db58",
+      "git_blob": "e9b5d8334c6d15197d1edd3452343225333a880e"
+    },
+    {
+      "file": "2. Deauth_11.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_11.csv",
+      "bytes": 956931,
+      "sha256": "ca8d72d1bd5851b6e8b7a9e0c0c5de1b1ccef2b438378fff5a121885ff3d3dbf",
+      "git_blob": "a17d94824d90a1f37cce7be9e71267fc8ccdabf7"
+    },
+    {
+      "file": "2. Deauth_12.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_12.csv",
+      "bytes": 4546364,
+      "sha256": "c8191a4e0de99477b812004543fe9728935b8c0d5b8de994d7b019123e3f3daa",
+      "git_blob": "6888df27ad1c19b34fb29000f39ab7ee335fe6ee"
+    },
+    {
+      "file": "2. Deauth_13.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_13.csv",
+      "bytes": 6713902,
+      "sha256": "f6e3aca1a7ce98b5dc74805c66000e6c0be43f564b569a6e0d967e67f773e2cf",
+      "git_blob": "a7d3f007f27dbf350bae38b2c142c39b9665fc97"
+    },
+    {
+      "file": "2. Deauth_14.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_14.csv",
+      "bytes": 6888405,
+      "sha256": "5d2e3b3d34a13066faa21c81dd96bb2fab88165487dfbe67fa457c5b0c1d7c35",
+      "git_blob": "20dab67fe164f5780b95217ff1083761f6cfc533"
+    },
+    {
+      "file": "2. Deauth_15.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_15.csv",
+      "bytes": 6153474,
+      "sha256": "960bd446f5a068df2e7ff539f19ee7d774d2eec8299d530c557192d68f761dc9",
+      "git_blob": "b94a9d1b5e55b46cf5e9c4c5efa79f9982be96b3"
+    },
+    {
+      "file": "2. Deauth_16.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_16.csv",
+      "bytes": 6408642,
+      "sha256": "074705fc734eec1dcc285484cd280e07cef4871deaabab8f5327b2fe6d043b1d",
+      "git_blob": "45f5a1bbfd8ef2989e662888083909846f8ece22"
+    },
+    {
+      "file": "2. Deauth_17.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_17.csv",
+      "bytes": 6198070,
+      "sha256": "0e4ad4d5b74589e44dc7692916f9f92edee45aefc9eca0c01d9a2c59d364fb45",
+      "git_blob": "6900a1a0f8b53eaade77ee6682a31feb1aa3458a"
+    },
+    {
+      "file": "2. Deauth_18.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_18.csv",
+      "bytes": 6686184,
+      "sha256": "35941f1e8dcabc878d8c9c275cee80d81f8ef5a8ebf9e8b2ab0630e136396000",
+      "git_blob": "449ce31d74217f64395f43ca5a1878a068a597f4"
+    },
+    {
+      "file": "2. Deauth_19.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_19.csv",
+      "bytes": 6985049,
+      "sha256": "14b2d93011a96a20978cf7d406cced6e306996f24eb871bc4473b4eb9b274cef",
+      "git_blob": "d7ce93d893465b3073e46eb5d993797a7ae838c2"
+    },
+    {
+      "file": "2. Deauth_2.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_2.csv",
+      "bytes": 1744517,
+      "sha256": "9c9428c00047b0c17c72a1954218e87e7cd1fa1f39d5e16e7a9e00f798d8ee8a",
+      "git_blob": "5414737395d6e549eabe41acde687f1586353904"
+    },
+    {
+      "file": "2. Deauth_20.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_20.csv",
+      "bytes": 5297912,
+      "sha256": "5a8717b82bac620271d15092359cb1d4290765a1892147d2290b3244bed9e95c",
+      "git_blob": "ed9befa0999a0ea1b51788765302c47a2c91b1b5"
+    },
+    {
+      "file": "2. Deauth_21.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_21.csv",
+      "bytes": 959557,
+      "sha256": "cea6995d5465593c706a15fc8529dcf665cf04149942cbcffb7eff26401b7046",
+      "git_blob": "ee6c3d177ce0e8ee6df7764a24748069e9e435b2"
+    },
+    {
+      "file": "2. Deauth_22.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_22.csv",
+      "bytes": 1161301,
+      "sha256": "af67be33563336250e01d472d9a3ddf8d9d571fff89869c3060293d0d5fec25f",
+      "git_blob": "b526581ea99b0630374313a7735f3205272b43a1"
+    },
+    {
+      "file": "2. Deauth_23.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_23.csv",
+      "bytes": 1205450,
+      "sha256": "9b9fdfd87d79de007b8439f9695990d12bb7c0ec95ecb3d8a4eeaf345567e082",
+      "git_blob": "3391fd03935e09d7a67d9345c6f33e10bc682f28"
+    },
+    {
+      "file": "2. Deauth_24.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_24.csv",
+      "bytes": 1038378,
+      "sha256": "94c0ece33bb1218f9ffa6a3888f3cda0612db5e15c4e25d3432959292db95cdc",
+      "git_blob": "6add0daba096a5ea941c941fde61348d4685c629"
+    },
+    {
+      "file": "2. Deauth_25.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_25.csv",
+      "bytes": 934626,
+      "sha256": "c053b390c501214e66cfda439794ef769b45d3ae4b69abef1a3072f0ee294185",
+      "git_blob": "7f42c2a646d5cfc46c511e65f7b23ffe91a2f65a"
+    },
+    {
+      "file": "2. Deauth_26.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_26.csv",
+      "bytes": 943590,
+      "sha256": "db7f2877f213b3f1ccca7058d43d4a457ca5198b57fb3b6e211bd45490621a3b",
+      "git_blob": "f34b298591b2f9182ba3dbd8cebe6adb5f49b22b"
+    },
+    {
+      "file": "2. Deauth_27.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_27.csv",
+      "bytes": 1046243,
+      "sha256": "b26f88a861473876266434e0d5000cde26c737f0e352073498ab1ba639d72ecd",
+      "git_blob": "023b339992bc7313556b05167949917ccb3ad855"
+    },
+    {
+      "file": "2. Deauth_28.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_28.csv",
+      "bytes": 935822,
+      "sha256": "85f0fdf450a65b089d80bb1d8dcef31c0ea8a2cba64ee6985112289a78f3a17d",
+      "git_blob": "441ff13f1571e33740e74dd3b58a888a81dc8ac7"
+    },
+    {
+      "file": "2. Deauth_29.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_29.csv",
+      "bytes": 1011717,
+      "sha256": "8acd33f554afaaa87ef785c9ba02a6694ed1975bd67d6bf1d3998913b12cc5a4",
+      "git_blob": "9833009603545b2b8db3246c7a1fff7af16c2fe6"
+    },
+    {
+      "file": "2. Deauth_3.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_3.csv",
+      "bytes": 1591646,
+      "sha256": "a4f218f74c448706e2a3117b5e348bb0acc127d4638b51ee09c7e863f62a81b3",
+      "git_blob": "9b823202dbe152bf95cc8231e3a7911cd8fe376c"
+    },
+    {
+      "file": "2. Deauth_30.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_30.csv",
+      "bytes": 960953,
+      "sha256": "a5bef3a4f72c12237a5cd3c3d358d502750a9cd2ebf38306e569574cb0d5f864",
+      "git_blob": "71c5352d03cceaa5a7da7da72e72e9b4f8579bc5"
+    },
+    {
+      "file": "2. Deauth_31.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_31.csv",
+      "bytes": 941224,
+      "sha256": "ea5ef1eaddabfe24e6bb1bce90a278d3c378bd0e47e651cd8c46ad6368f0c246",
+      "git_blob": "04984fe8654c1678ced66ac3f3c702c2c80bba73"
+    },
+    {
+      "file": "2. Deauth_32.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_32.csv",
+      "bytes": 934679,
+      "sha256": "c4f9635efa8730e8e4e36d1be1004c6a0ef126c708fb67e144acb49a42283a53",
+      "git_blob": "fdc12b4789511d6176b10dba4c17d4c3fb8417e4"
+    },
+    {
+      "file": "2. Deauth_33.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_33.csv",
+      "bytes": 953766,
+      "sha256": "edbc9a5565e218bbda292c4a06a654acb85873881fe08048b9080cc12a0ddbef",
+      "git_blob": "ca808f20415cc9a3788ed149c9b6eea401c6ac80"
+    },
+    {
+      "file": "2. Deauth_34.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_34.csv",
+      "bytes": 934138,
+      "sha256": "e30ac5b699e4bb2ffdcee1bef97cdcda3c21554c05c3b7508b6e506b16f07eca",
+      "git_blob": "093f422dd6639a7416642638904310fdb3cdaca7"
+    },
+    {
+      "file": "2. Deauth_35.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_35.csv",
+      "bytes": 929955,
+      "sha256": "5f3b3fc8e0d905612398a3eb1d309daab073597407769eea1e3db47bb02fa1d1",
+      "git_blob": "cc3468b7d46d9b8ed728ec902b22a5c28ca0d896"
+    },
+    {
+      "file": "2. Deauth_36.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_36.csv",
+      "bytes": 1035767,
+      "sha256": "95137df23cae04f91ea7b7493c87d9d44ac7ced867c5086bea02012e138af197",
+      "git_blob": "8b834a2f070d02f72ad36e863bae9dcc571b641e"
+    },
+    {
+      "file": "2. Deauth_37.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_37.csv",
+      "bytes": 964507,
+      "sha256": "c2508d265bf10af51915be704a60f54dd09e17151ec8b1e7e915c882287e604d",
+      "git_blob": "50134d232cd964db4be8bfdddc7b7d0212a7b5d1"
+    },
+    {
+      "file": "2. Deauth_38.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_38.csv",
+      "bytes": 1100843,
+      "sha256": "33a9000211eef319487e6c043f7323d24b1ab6d763a5f6245b50888601ce4b62",
+      "git_blob": "9d7a8629e0bb7cc5c98cbee90f9c8845ad870cb7"
+    },
+    {
+      "file": "2. Deauth_39.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_39.csv",
+      "bytes": 1054643,
+      "sha256": "05fdad81cb04993aa545273c66bda23494ca107c4c675f3133a335068ac9bc78",
+      "git_blob": "6349aaa6adab19a1228a514b11af8e7ebf1911c8"
+    },
+    {
+      "file": "2. Deauth_4.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_4.csv",
+      "bytes": 1137095,
+      "sha256": "6d90f3930ca184af14d0f280bc865e1c716059cdd348c2d86f825719e5e2dc72",
+      "git_blob": "02125291a05d98ce76e7ad073736b5bea702a8d4"
+    },
+    {
+      "file": "2. Deauth_40.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_40.csv",
+      "bytes": 1027409,
+      "sha256": "ed695d180102045edce48097f1d904a72895da0458448739d6ea49061a60862f",
+      "git_blob": "2a19223f34c2239bb8c2626a4631b0bb48df38d1"
+    },
+    {
+      "file": "2. Deauth_41.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_41.csv",
+      "bytes": 1126017,
+      "sha256": "61ddd49c25bbb55c5af1c17ec625661dee2a723bc7ecdb12a1d8f31b12ca78bf",
+      "git_blob": "95afb785828c20ce1627a6c3a72504a5259aacc4"
+    },
+    {
+      "file": "2. Deauth_42.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_42.csv",
+      "bytes": 1029191,
+      "sha256": "f0e17151f0331fcae19685ae9c6428c1ee250c6d4ec001d4b620401ad454e7aa",
+      "git_blob": "c8e806e4130785effab02f1772df88d8c74a4484"
+    },
+    {
+      "file": "2. Deauth_43.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_43.csv",
+      "bytes": 1070770,
+      "sha256": "1fd73bfc3f64479dba229eb70b3e3adb23a7316ed3e0557886bebedb0f3d5b9f",
+      "git_blob": "c16b911f306a066893863e8352c23d8e7626246a"
+    },
+    {
+      "file": "2. Deauth_44.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_44.csv",
+      "bytes": 1124076,
+      "sha256": "17795813a8c18c72139aae15f9b1487c98e3a51a8ac40703a3a5f290adf1fe0e",
+      "git_blob": "41672b70b6b5fe44bf296dd9de3fdce97601de50"
+    },
+    {
+      "file": "2. Deauth_45.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_45.csv",
+      "bytes": 1051158,
+      "sha256": "c23b92f31fedf40948d4ae573f3228e90f776221d623e9394955721901f702c6",
+      "git_blob": "e47e4c9d6a1834f8fa8d3582c168ac6e69e607a0"
+    },
+    {
+      "file": "2. Deauth_46.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_46.csv",
+      "bytes": 1073173,
+      "sha256": "1af7f937dca705f0aace913a0df4653243f561b2026f1a1fe2de176115a0b210",
+      "git_blob": "868603f6d7a9be327b2ec1ae9f53636528b87cbc"
+    },
+    {
+      "file": "2. Deauth_47.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_47.csv",
+      "bytes": 1178131,
+      "sha256": "101bf932310d0c6b301b3582f94fd5685b9c7e6a73c391afce74b704a98c92f6",
+      "git_blob": "642d89ff631b2c29b351a035022b42cb0b3bf8e6"
+    },
+    {
+      "file": "2. Deauth_48.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_48.csv",
+      "bytes": 1076353,
+      "sha256": "81543fd50ea02cb1dbcbe232447dcaa634a2eaa89e24ae80b2b09f4a2dfb76da",
+      "git_blob": "4fd2745888fe5be2f83c20c46ccb3bef1916da28"
+    },
+    {
+      "file": "2. Deauth_49.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_49.csv",
+      "bytes": 1138965,
+      "sha256": "cc083823062f36b8e3740aa16e569232f8a49132306c68c6acf70055d13f133b",
+      "git_blob": "248f994137286d81d53d75b8ce192c5bae88ddd0"
+    },
+    {
+      "file": "2. Deauth_5.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_5.csv",
+      "bytes": 1327444,
+      "sha256": "17bb05543e34149e2ea086e7fd2a0b9da269693d544e2c5dde84a514182e3df6",
+      "git_blob": "d269e8453dd65da6dafc5eb0dfb62c3ebef68154"
+    },
+    {
+      "file": "2. Deauth_50.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_50.csv",
+      "bytes": 1107130,
+      "sha256": "d2b39d3c9c9f0924e086c412cc1ef8da5a180a3b219001a18d4c8b4e21198557",
+      "git_blob": "895321313d0848f0209ef3d13af1c698a19a4f2a"
+    },
+    {
+      "file": "2. Deauth_51.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_51.csv",
+      "bytes": 1361710,
+      "sha256": "0e737f3a04402eae98fd599e30c83cd62e0b8d9a4d24f0f21bf0df381601ac68",
+      "git_blob": "52794ee537a682d8cdf9906ce34ef513f248c5ef"
+    },
+    {
+      "file": "2. Deauth_52.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_52.csv",
+      "bytes": 1204023,
+      "sha256": "0c4c889e5e7fe2030e817a049f4e3220d3acb6203ab0dcde906d9e1ac00f40cf",
+      "git_blob": "7a10e5ec6b0961de8417b043204e35c3f02a8850"
+    },
+    {
+      "file": "2. Deauth_53.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_53.csv",
+      "bytes": 1314985,
+      "sha256": "3237e08278138bb7c8c0918cbd38c6fb780db33ca81e9c86ccb722a574b8e7d8",
+      "git_blob": "06a3f40a3e5ed61059e30ee5cf5c3026aabab94b"
+    },
+    {
+      "file": "2. Deauth_54.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_54.csv",
+      "bytes": 1158168,
+      "sha256": "ba1b43b8a02b3084540607f17a8c445763431b024926fd48baa6c24e735f78c1",
+      "git_blob": "00c3c5334bcd63fbca16ceb55640eb4d6eb075fb"
+    },
+    {
+      "file": "2. Deauth_55.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_55.csv",
+      "bytes": 1235671,
+      "sha256": "1cfcdc87fb7e3860c1ddcb0c79188c1944f2650e653eff278654f701aeaf3725",
+      "git_blob": "63fa78b56179e30906699e1a16fb2a2624f6dd2c"
+    },
+    {
+      "file": "2. Deauth_56.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_56.csv",
+      "bytes": 1252794,
+      "sha256": "5b0b89edc9433796f127acad5fa9325f6530c70b72d103f87dfaf016dfaada12",
+      "git_blob": "bd5801572364d9ba8e1217b8757cd72d29cf4a17"
+    },
+    {
+      "file": "2. Deauth_57.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_57.csv",
+      "bytes": 1262344,
+      "sha256": "aecfb51b00e4c5dc5d873ede2e549eab55cbd64de57a3178165ff1bad8e9c8fe",
+      "git_blob": "0a8ce1f654416464fc12649a380073c28ea1b3e5"
+    },
+    {
+      "file": "2. Deauth_58.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_58.csv",
+      "bytes": 1284567,
+      "sha256": "945e6442ba485d2a2b5c2cba310e7991a3d0e23593a2c09994fe74ac0ab3fc2a",
+      "git_blob": "19dbf2fb7c54dd013d1dab16fc6fa51de748d809"
+    },
+    {
+      "file": "2. Deauth_59.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_59.csv",
+      "bytes": 1095504,
+      "sha256": "b96bcff35c852aa579ed91cf21fa796ee9facae563f08424205d0c83a6318a9b",
+      "git_blob": "3dfd66a5ce68acd39a3059f8a21910f9c94bbce0"
+    },
+    {
+      "file": "2. Deauth_6.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_6.csv",
+      "bytes": 1507780,
+      "sha256": "ad91768887131e7b44cbf8f82cbeb6bfa6ab9c093dbad974cc701cf5da1ce813",
+      "git_blob": "13cd178fc42ee72ea3b8ab9fc54daf833a9efde8"
+    },
+    {
+      "file": "2. Deauth_60.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_60.csv",
+      "bytes": 1101334,
+      "sha256": "faa749ae6744d4f593efc6f9634fb18a64e4be2b02c47eb156163b8391a62502",
+      "git_blob": "5d8d08ac1c61ea97df382e540d39720511be37f9"
+    },
+    {
+      "file": "2. Deauth_61.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_61.csv",
+      "bytes": 1114885,
+      "sha256": "2911d45e27f1581f751354fbc897d3c69bba4ef0a3926a844168895e3e6b8adb",
+      "git_blob": "653c2db7fa8487185729698b8a9837610cfbc460"
+    },
+    {
+      "file": "2. Deauth_62.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_62.csv",
+      "bytes": 198426,
+      "sha256": "d9e7b4d3b8488b72cfd4e1a1d48d53b4af35fb5bb859d80435b1b1d36c2589be",
+      "git_blob": "44b213dcbc9c1ffcaafb0e1a3d54ab6451680ce7"
+    },
+    {
+      "file": "2. Deauth_7.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_7.csv",
+      "bytes": 2315449,
+      "sha256": "09357b3783e2bb428e479f8a90e2ce2948ecb6ed7aa29aff3f2f83b2e4097149",
+      "git_blob": "06533f6c1b00f7374c5154184f4b2738a7679c31"
+    },
+    {
+      "file": "2. Deauth_8.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_8.csv",
+      "bytes": 2285619,
+      "sha256": "6908321d2285c8b92cc150a2ab44a6ffe4515f5a664a7054c334f3271d4226e9",
+      "git_blob": "66883bace8b3d85010866a785c8e7e9ca063ea8f"
+    },
+    {
+      "file": "2. Deauth_9.csv",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset_csv/2.%20Deauth/2.%20Deauth_9.csv",
+      "bytes": 1054631,
+      "sha256": "7845cb6a0d34fbaa209f9801cc43af279ed05ee306d2a5d4499307787dfe0563",
+      "git_blob": "cf1e8d228db3e91e1356a2f97db5b523c63fb1da"
+    },
+    {
+      "file": "2. Deauth_00056_20240417001459.pcap",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/The_WPA3_Dataset/2.%20Deauth/2.%20Deauth_00056_20240417001459.pcap",
+      "bytes": 300748,
+      "sha256": "35af29726df80fbf1d7e1e256a1f71055db15bb6bf35aee7fe4b12651d0b250f",
+      "git_blob": "e57a2c29854c158305af64c12c5278eb4b12b6a6"
+    },
+    {
+      "file": "LICENSE",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/LICENSE",
+      "bytes": 1061,
+      "sha256": "96bbb23ae731fd40663c8312c82101a0c17c4e65b0bf856ae6c9245973bb0bb1",
+      "git_blob": "ff3c21e8603cce30a8fb72474475fa7bbd1245d1"
+    },
+    {
+      "file": "README.md",
+      "source": "https://raw.githubusercontent.com/hsngccu/WPA3-dataset/e07113327e2012a861f3e273e10ed9b02f0491f4/README.md",
+      "bytes": 2194,
+      "sha256": "c941005fb8806160c67984495d079de769bcd4e06a248474c0726e258d9bc9b1",
+      "git_blob": "9042627d3d2dcb73281dd6d2f57109117da02495"
+    }
+  ],
+  "provenance": "genuine research capture; original publisher packet labels; single attack recording split into files"
+}

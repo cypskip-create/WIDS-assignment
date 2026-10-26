@@ -1,0 +1,12 @@
+id,session_id,timestamp,kind,details
+1,043fc8b7-5c6a-479f-b65e-f1084a1fe5d9,1793001467.7067142,start,data\demo\synthetic_deauth.pcap
+2,043fc8b7-5c6a-479f-b65e-f1084a1fe5d9,1793001477.00783,alert,100 deauthentication frames / 5s = 20.00 fps; threshold 10 fps. ML: malicious (P(malicious)=0.597).
+3,043fc8b7-5c6a-479f-b65e-f1084a1fe5d9,1793001482.4384203,completed,completed
+4,544f2f9f-42c3-479f-a9f3-fcef0bd4c0ae,1793001482.5055826,start,data\raw\wpa3\2. Deauth_00056_20240417001459.pcap
+5,544f2f9f-42c3-479f-a9f3-fcef0bd4c0ae,1793001483.586229,alert,1 deauthentication frames / 5s = 0.20 fps; threshold 10 fps. ML: malicious (P(malicious)=0.786).
+6,544f2f9f-42c3-479f-a9f3-fcef0bd4c0ae,1793001488.095274,alert,58 deauthentication frames / 5s = 11.60 fps; threshold 10 fps. ML: malicious (P(malicious)=0.995).
+7,544f2f9f-42c3-479f-a9f3-fcef0bd4c0ae,1793001503.3313787,alert,62 deauthentication frames / 5s = 12.40 fps; threshold 10 fps. ML: malicious (P(malicious)=0.983).
+8,544f2f9f-42c3-479f-a9f3-fcef0bd4c0ae,1793001503.6963694,alert,42 deauthentication frames / 5s = 8.40 fps; threshold 10 fps. ML: malicious (P(malicious)=0.936).
+9,544f2f9f-42c3-479f-a9f3-fcef0bd4c0ae,1793001515.9251995,alert,8 deauthentication frames / 5s = 1.60 fps; threshold 10 fps. ML: malicious (P(malicious)=0.996).
+10,544f2f9f-42c3-479f-a9f3-fcef0bd4c0ae,1793001519.6926517,alert,60 deauthentication frames / 5s = 12.00 fps; threshold 10 fps. ML: malicious (P(malicious)=0.997).
+11,544f2f9f-42c3-479f-a9f3-fcef0bd4c0ae,1793001522.0426645,completed,completed

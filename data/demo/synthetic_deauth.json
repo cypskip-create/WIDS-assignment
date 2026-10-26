@@ -1,0 +1,23 @@
+{
+  "provenance": "synthetic",
+  "packets": 1320,
+  "purpose": "Parser, replay and detector software testing only; never evidence of real-world ML performance",
+  "segments": {
+    "normal": [
+      0,
+      15
+    ],
+    "occasional_deauth": [
+      15,
+      25
+    ],
+    "flood": [
+      25,
+      35
+    ],
+    "recovery": [
+      35,
+      50
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sentinelwifi"
+version = "0.1.0"
+description = "Passive wireless intrusion detection, reproducible PCAP replay and Random Forest evaluation"
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26,<3", "pandas>=2.2,<4", "scikit-learn>=1.5,<2", "scapy>=2.6,<3", "streamlit>=1.42,<2", "plotly>=5.24,<8", "joblib>=1.4,<2", "matplotlib>=3.9,<4", "reportlab>=4.2,<5"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "pymupdf>=1.24"]
+
+[project.scripts]
+sentinelwifi = "wids.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["wids*", "dashboard*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

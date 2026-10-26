@@ -1,0 +1,398 @@
+{
+  "schema_version": "80211-window-v2",
+  "features": [
+    "total_frames",
+    "frames_per_second",
+    "management_per_second",
+    "deauth_count",
+    "deauth_per_second",
+    "disassoc_count",
+    "beacon_count",
+    "auth_count",
+    "probe_request_count",
+    "deauth_ratio",
+    "distinct_destinations",
+    "retry_ratio",
+    "mean_frame_size",
+    "mean_rssi",
+    "std_rssi",
+    "rssi_coverage",
+    "broadcast_ratio",
+    "reason7_ratio"
+  ],
+  "window_seconds": 5.0,
+  "step_seconds": 1.0,
+  "source": "The WPA3 Dataset - hsngccu/WPA3-dataset, MIT, Deauth recording",
+  "provenance": "genuine",
+  "packet_count": 122306,
+  "packet_labels": {
+    "Normal": 116799,
+    "Deauth": 5507
+  },
+  "windows": 6286,
+  "class_distribution": {
+    "0": 5628,
+    "1": 658
+  },
+  "duplicate_feature_rows": 1984,
+  "split_design": "60-second blocks; first full observation window purged per block; block-disjoint holdout",
+  "limitations": "Temporal holdout within one recording is weaker than independent-session evaluation; window label is any publisher-labeled attack frame; background traffic in attack windows is mixed.",
+  "files": [
+    {
+      "name": "2. Deauth_1.csv",
+      "sha256": "22b02cbbdf7a017bfaec565abf2513b4813650b850163877d08cba97fd64459f"
+    },
+    {
+      "name": "2. Deauth_2.csv",
+      "sha256": "9c9428c00047b0c17c72a1954218e87e7cd1fa1f39d5e16e7a9e00f798d8ee8a"
+    },
+    {
+      "name": "2. Deauth_3.csv",
+      "sha256": "a4f218f74c448706e2a3117b5e348bb0acc127d4638b51ee09c7e863f62a81b3"
+    },
+    {
+      "name": "2. Deauth_4.csv",
+      "sha256": "6d90f3930ca184af14d0f280bc865e1c716059cdd348c2d86f825719e5e2dc72"
+    },
+    {
+      "name": "2. Deauth_5.csv",
+      "sha256": "17bb05543e34149e2ea086e7fd2a0b9da269693d544e2c5dde84a514182e3df6"
+    },
+    {
+      "name": "2. Deauth_6.csv",
+      "sha256": "ad91768887131e7b44cbf8f82cbeb6bfa6ab9c093dbad974cc701cf5da1ce813"
+    },
+    {
+      "name": "2. Deauth_7.csv",
+      "sha256": "09357b3783e2bb428e479f8a90e2ce2948ecb6ed7aa29aff3f2f83b2e4097149"
+    },
+    {
+      "name": "2. Deauth_8.csv",
+      "sha256": "6908321d2285c8b92cc150a2ab44a6ffe4515f5a664a7054c334f3271d4226e9"
+    },
+    {
+      "name": "2. Deauth_9.csv",
+      "sha256": "7845cb6a0d34fbaa209f9801cc43af279ed05ee306d2a5d4499307787dfe0563"
+    },
+    {
+      "name": "2. Deauth_10.csv",
+      "sha256": "b69cfcff020245d0ac3a9d85c3719a4b6025a1a7945217bf9b17c755dd07db58"
+    },
+    {
+      "name": "2. Deauth_11.csv",
+      "sha256": "ca8d72d1bd5851b6e8b7a9e0c0c5de1b1ccef2b438378fff5a121885ff3d3dbf"
+    },
+    {
+      "name": "2. Deauth_12.csv",
+      "sha256": "c8191a4e0de99477b812004543fe9728935b8c0d5b8de994d7b019123e3f3daa"
+    },
+    {
+      "name": "2. Deauth_13.csv",
+      "sha256": "f6e3aca1a7ce98b5dc74805c66000e6c0be43f564b569a6e0d967e67f773e2cf"
+    },
+    {
+      "name": "2. Deauth_14.csv",
+      "sha256": "5d2e3b3d34a13066faa21c81dd96bb2fab88165487dfbe67fa457c5b0c1d7c35"
+    },
+    {
+      "name": "2. Deauth_15.csv",
+      "sha256": "960bd446f5a068df2e7ff539f19ee7d774d2eec8299d530c557192d68f761dc9"
+    },
+    {
+      "name": "2. Deauth_16.csv",
+      "sha256": "074705fc734eec1dcc285484cd280e07cef4871deaabab8f5327b2fe6d043b1d"
+    },
+    {
+      "name": "2. Deauth_17.csv",
+      "sha256": "0e4ad4d5b74589e44dc7692916f9f92edee45aefc9eca0c01d9a2c59d364fb45"
+    },
+    {
+      "name": "2. Deauth_18.csv",
+      "sha256": "35941f1e8dcabc878d8c9c275cee80d81f8ef5a8ebf9e8b2ab0630e136396000"
+    },
+    {
+      "name": "2. Deauth_19.csv",
+      "sha256": "14b2d93011a96a20978cf7d406cced6e306996f24eb871bc4473b4eb9b274cef"
+    },
+    {
+      "name": "2. Deauth_20.csv",
+      "sha256": "5a8717b82bac620271d15092359cb1d4290765a1892147d2290b3244bed9e95c"
+    },
+    {
+      "name": "2. Deauth_21.csv",
+      "sha256": "cea6995d5465593c706a15fc8529dcf665cf04149942cbcffb7eff26401b7046"
+    },
+    {
+      "name": "2. Deauth_22.csv",
+      "sha256": "af67be33563336250e01d472d9a3ddf8d9d571fff89869c3060293d0d5fec25f"
+    },
+    {
+      "name": "2. Deauth_23.csv",
+      "sha256": "9b9fdfd87d79de007b8439f9695990d12bb7c0ec95ecb3d8a4eeaf345567e082"
+    },
+    {
+      "name": "2. Deauth_24.csv",
+      "sha256": "94c0ece33bb1218f9ffa6a3888f3cda0612db5e15c4e25d3432959292db95cdc"
+    },
+    {
+      "name": "2. Deauth_25.csv",
+      "sha256": "c053b390c501214e66cfda439794ef769b45d3ae4b69abef1a3072f0ee294185"
+    },
+    {
+      "name": "2. Deauth_26.csv",
+      "sha256": "db7f2877f213b3f1ccca7058d43d4a457ca5198b57fb3b6e211bd45490621a3b"
+    },
+    {
+      "name": "2. Deauth_27.csv",
+      "sha256": "b26f88a861473876266434e0d5000cde26c737f0e352073498ab1ba639d72ecd"
+    },
+    {
+      "name": "2. Deauth_28.csv",
+      "sha256": "85f0fdf450a65b089d80bb1d8dcef31c0ea8a2cba64ee6985112289a78f3a17d"
+    },
+    {
+      "name": "2. Deauth_29.csv",
+      "sha256": "8acd33f554afaaa87ef785c9ba02a6694ed1975bd67d6bf1d3998913b12cc5a4"
+    },
+    {
+      "name": "2. Deauth_30.csv",
+      "sha256": "a5bef3a4f72c12237a5cd3c3d358d502750a9cd2ebf38306e569574cb0d5f864"
+    },
+    {
+      "name": "2. Deauth_31.csv",
+      "sha256": "ea5ef1eaddabfe24e6bb1bce90a278d3c378bd0e47e651cd8c46ad6368f0c246"
+    },
+    {
+      "name": "2. Deauth_32.csv",
+      "sha256": "c4f9635efa8730e8e4e36d1be1004c6a0ef126c708fb67e144acb49a42283a53"
+    },
+    {
+      "name": "2. Deauth_33.csv",
+      "sha256": "edbc9a5565e218bbda292c4a06a654acb85873881fe08048b9080cc12a0ddbef"
+    },
+    {
+      "name": "2. Deauth_34.csv",
+      "sha256": "e30ac5b699e4bb2ffdcee1bef97cdcda3c21554c05c3b7508b6e506b16f07eca"
+    },
+    {
+      "name": "2. Deauth_35.csv",
+      "sha256": "5f3b3fc8e0d905612398a3eb1d309daab073597407769eea1e3db47bb02fa1d1"
+    },
+    {
+      "name": "2. Deauth_36.csv",
+      "sha256": "95137df23cae04f91ea7b7493c87d9d44ac7ced867c5086bea02012e138af197"
+    },
+    {
+      "name": "2. Deauth_37.csv",
+      "sha256": "c2508d265bf10af51915be704a60f54dd09e17151ec8b1e7e915c882287e604d"
+    },
+    {
+      "name": "2. Deauth_38.csv",
+      "sha256": "33a9000211eef319487e6c043f7323d24b1ab6d763a5f6245b50888601ce4b62"
+    },
+    {
+      "name": "2. Deauth_39.csv",
+      "sha256": "05fdad81cb04993aa545273c66bda23494ca107c4c675f3133a335068ac9bc78"
+    },
+    {
+      "name": "2. Deauth_40.csv",
+      "sha256": "ed695d180102045edce48097f1d904a72895da0458448739d6ea49061a60862f"
+    },
+    {
+      "name": "2. Deauth_41.csv",
+      "sha256": "61ddd49c25bbb55c5af1c17ec625661dee2a723bc7ecdb12a1d8f31b12ca78bf"
+    },
+    {
+      "name": "2. Deauth_42.csv",
+      "sha256": "f0e17151f0331fcae19685ae9c6428c1ee250c6d4ec001d4b620401ad454e7aa"
+    },
+    {
+      "name": "2. Deauth_43.csv",
+      "sha256": "1fd73bfc3f64479dba229eb70b3e3adb23a7316ed3e0557886bebedb0f3d5b9f"
+    },
+    {
+      "name": "2. Deauth_44.csv",
+      "sha256": "17795813a8c18c72139aae15f9b1487c98e3a51a8ac40703a3a5f290adf1fe0e"
+    },
+    {
+      "name": "2. Deauth_45.csv",
+      "sha256": "c23b92f31fedf40948d4ae573f3228e90f776221d623e9394955721901f702c6"
+    },
+    {
+      "name": "2. Deauth_46.csv",
+      "sha256": "1af7f937dca705f0aace913a0df4653243f561b2026f1a1fe2de176115a0b210"
+    },
+    {
+      "name": "2. Deauth_47.csv",
+      "sha256": "101bf932310d0c6b301b3582f94fd5685b9c7e6a73c391afce74b704a98c92f6"
+    },
+    {
+      "name": "2. Deauth_48.csv",
+      "sha256": "81543fd50ea02cb1dbcbe232447dcaa634a2eaa89e24ae80b2b09f4a2dfb76da"
+    },
+    {
+      "name": "2. Deauth_49.csv",
+      "sha256": "cc083823062f36b8e3740aa16e569232f8a49132306c68c6acf70055d13f133b"
+    },
+    {
+      "name": "2. Deauth_50.csv",
+      "sha256": "d2b39d3c9c9f0924e086c412cc1ef8da5a180a3b219001a18d4c8b4e21198557"
+    },
+    {
+      "name": "2. Deauth_51.csv",
+      "sha256": "0e737f3a04402eae98fd599e30c83cd62e0b8d9a4d24f0f21bf0df381601ac68"
+    },
+    {
+      "name": "2. Deauth_52.csv",
+      "sha256": "0c4c889e5e7fe2030e817a049f4e3220d3acb6203ab0dcde906d9e1ac00f40cf"
+    },
+    {
+      "name": "2. Deauth_53.csv",
+      "sha256": "3237e08278138bb7c8c0918cbd38c6fb780db33ca81e9c86ccb722a574b8e7d8"
+    },
+    {
+      "name": "2. Deauth_54.csv",
+      "sha256": "ba1b43b8a02b3084540607f17a8c445763431b024926fd48baa6c24e735f78c1"
+    },
+    {
+      "name": "2. Deauth_55.csv",
+      "sha256": "1cfcdc87fb7e3860c1ddcb0c79188c1944f2650e653eff278654f701aeaf3725"
+    },
+    {
+      "name": "2. Deauth_56.csv",
+      "sha256": "5b0b89edc9433796f127acad5fa9325f6530c70b72d103f87dfaf016dfaada12"
+    },
+    {
+      "name": "2. Deauth_57.csv",
+      "sha256": "aecfb51b00e4c5dc5d873ede2e549eab55cbd64de57a3178165ff1bad8e9c8fe"
+    },
+    {
+      "name": "2. Deauth_58.csv",
+      "sha256": "945e6442ba485d2a2b5c2cba310e7991a3d0e23593a2c09994fe74ac0ab3fc2a"
+    },
+    {
+      "name": "2. Deauth_59.csv",
+      "sha256": "b96bcff35c852aa579ed91cf21fa796ee9facae563f08424205d0c83a6318a9b"
+    },
+    {
+      "name": "2. Deauth_60.csv",
+      "sha256": "faa749ae6744d4f593efc6f9634fb18a64e4be2b02c47eb156163b8391a62502"
+    },
+    {
+      "name": "2. Deauth_61.csv",
+      "sha256": "2911d45e27f1581f751354fbc897d3c69bba4ef0a3926a844168895e3e6b8adb"
+    },
+    {
+      "name": "2. Deauth_62.csv",
+      "sha256": "d9e7b4d3b8488b72cfd4e1a1d48d53b4af35fb5bb859d80435b1b1d36c2589be"
+    }
+  ],
+  "algorithm": "RandomForestClassifier",
+  "predictive_features": [
+    "total_frames",
+    "frames_per_second",
+    "management_per_second",
+    "deauth_count",
+    "deauth_per_second",
+    "disassoc_count",
+    "beacon_count",
+    "auth_count",
+    "probe_request_count",
+    "deauth_ratio",
+    "distinct_destinations",
+    "retry_ratio",
+    "mean_frame_size",
+    "rssi_coverage",
+    "broadcast_ratio",
+    "reason7_ratio"
+  ],
+  "excluded_analysis_features": {
+    "mean_rssi": "Publisher/Scapy antenna namespace mismatch",
+    "std_rssi": "Publisher/Scapy antenna namespace mismatch"
+  },
+  "trained_at": "2026-10-26T07:54:28.013109+00:00",
+  "seed": 42,
+  "class_mapping": {
+    "0": "Normal",
+    "1": "Malicious"
+  },
+  "train_samples": 3484,
+  "test_samples": 2802,
+  "train_groups": [
+    "wpa3-deauth-20240416:block-10",
+    "wpa3-deauth-20240416:block-11",
+    "wpa3-deauth-20240416:block-12",
+    "wpa3-deauth-20240416:block-14",
+    "wpa3-deauth-20240416:block-15",
+    "wpa3-deauth-20240416:block-17",
+    "wpa3-deauth-20240416:block-18",
+    "wpa3-deauth-20240416:block-3",
+    "wpa3-deauth-20240416:block-4",
+    "wpa3-deauth-20240416:block-5",
+    "wpa3-deauth-20240416:block-6",
+    "wpa3-deauth-20240416:block-8",
+    "wpa3-deauth-20240416:block-9"
+  ],
+  "test_groups": [
+    "wpa3-deauth-20240416:block-0",
+    "wpa3-deauth-20240416:block-1",
+    "wpa3-deauth-20240416:block-13",
+    "wpa3-deauth-20240416:block-16",
+    "wpa3-deauth-20240416:block-2",
+    "wpa3-deauth-20240416:block-7"
+  ],
+  "evaluation_method": "60-second blocks; first full observation window purged per block; block-disjoint holdout",
+  "metrics": {
+    "accuracy": 0.9950035688793719,
+    "precision": 0.9225806451612903,
+    "recall": 0.9862068965517241,
+    "f1": 0.9533333333333334,
+    "roc_auc": 0.9992732275187208,
+    "confusion_matrix": [
+      [
+        2645,
+        12
+      ],
+      [
+        2,
+        143
+      ]
+    ],
+    "support": {
+      "normal": 2657,
+      "malicious": 145
+    }
+  },
+  "duplicate_test_features_seen_in_training": 1023,
+  "parameters": {
+    "n_estimators": 160,
+    "max_depth": 12,
+    "min_samples_leaf": 2,
+    "class_weight": "balanced",
+    "random_state": 42
+  },
+  "feature_importance": {
+    "total_frames": 0.01672847175555014,
+    "frames_per_second": 0.006715063268610731,
+    "management_per_second": 0.03724405897790851,
+    "deauth_count": 0.19115123562973152,
+    "deauth_per_second": 0.20694764425851803,
+    "disassoc_count": 0.0019072308580139682,
+    "beacon_count": 0.10579231175308668,
+    "auth_count": 0.0013568557238033464,
+    "probe_request_count": 0.0,
+    "deauth_ratio": 0.25772761491995877,
+    "distinct_destinations": 0.06074152099378186,
+    "retry_ratio": 0.009957956929436827,
+    "mean_frame_size": 0.00501008269162079,
+    "rssi_coverage": 0.00021328148022358058,
+    "broadcast_ratio": 0.022336246660458015,
+    "reason7_ratio": 0.07617042409929739
+  },
+  "versions": {
+    "scikit-learn": "1.9.1",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "joblib": "1.6.0"
+  }
+}
